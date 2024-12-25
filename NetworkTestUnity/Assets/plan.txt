@@ -1,0 +1,4 @@
+- Character mesh
+- Character icon
+- Character name
+- Character status (smily/neutral/sad face)
