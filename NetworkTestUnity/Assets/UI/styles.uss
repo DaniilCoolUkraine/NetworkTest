@@ -1,0 +1,47 @@
+﻿*
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0);
+}
+
+.wrapper
+{
+    display: flex;
+}
+
+.header
+{
+    height: 10%;
+    padding: 10px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.user-name
+{
+    width: 150px;
+    height: 40px;
+    border-width: 1px;
+    border-color: black;
+}
+
+.user-image-mask
+{
+    width: 40px;
+    height: 40px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 50%;
+}
+
+.content
+{
+    height: 90%;
+    /*background-color: rgba(174,255,162,0.41);*/
+}
